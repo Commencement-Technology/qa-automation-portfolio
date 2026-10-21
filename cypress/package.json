@@ -28,7 +28,7 @@
     "react-dom":                      "^19.2.8",
     "@types/react":                   "^19.2.18",
     "@types/react-dom":               "^19.2.4",
-    "vite":                           "^8.2.1",
+    "vite":                           "^8.3.5",
     "@vitejs/plugin-react":           "^6.0.5",
     "mocha-junit-reporter":           "^2.2.0",
     "node-fetch":                     "^3.3.0",
