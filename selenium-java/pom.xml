@@ -19,7 +19,7 @@
         <allure.version>2.27.0</allure.version>          <!-- was 2.25.0 -->
 
         <!-- ── Mobile ───────────────────────────────────────────────── -->
-        <appium.version>9.3.0</appium.version>           <!-- was 9.0.0  -->
+        <appium.version>10.1.1</appium.version>           <!-- was 9.0.0  -->
 
         <!-- ── Data / DB ────────────────────────────────────────────── -->
         <mysql.version>9.0.0</mysql.version>             <!-- was 8.3.0  – CVE fixes in 9.x -->
