@@ -23,7 +23,7 @@
 
         <!-- ── Data / DB ────────────────────────────────────────────── -->
         <mysql.version>9.0.0</mysql.version>             <!-- was 8.3.0  – CVE fixes in 9.x -->
-        <json.version>20240303</json.version>            <!-- was 20231013 -->
+        <json.version>20260719</json.version>            <!-- was 20231013 -->
 
         <!-- ── API / Mocking ────────────────────────────────────────── -->
         <restassured.version>5.4.0</restassured.version>
